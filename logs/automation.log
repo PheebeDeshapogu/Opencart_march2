@@ -320,3 +320,19 @@
 17:26:45.801 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue
 17:26:45.801 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating MyAccountHeaderExists
 17:26:46.290 [main] INFO  testCases.TC_001_AccountRegistrationTest - ******Finished TC_001_AccountRegistrationTest******
+14:08:04.903 [main] INFO  testCases.TC_001_AccountRegistrationTest - ******Starting TC_001_AccountRegistrationTest******
+14:08:05.083 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+14:08:05.588 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+14:08:05.594 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing Customer Data
+14:08:08.024 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Privacy Policy
+14:08:13.119 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue
+14:08:13.119 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating MyAccountHeaderExists
+14:08:13.608 [main] INFO  testCases.TC_001_AccountRegistrationTest - ******Finished TC_001_AccountRegistrationTest******
+14:14:41.298 [main] INFO  testCases.TC_001_AccountRegistrationTest - ******Starting TC_001_AccountRegistrationTest******
+14:14:41.473 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+14:14:41.903 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+14:14:41.917 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing Customer Data
+14:14:44.314 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Privacy Policy
+14:14:49.398 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue
+14:14:49.399 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating MyAccountHeaderExists
+14:14:49.821 [main] INFO  testCases.TC_001_AccountRegistrationTest - ******Finished TC_001_AccountRegistrationTest******
